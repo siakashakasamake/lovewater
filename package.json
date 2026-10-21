@@ -1,0 +1,8 @@
+{
+  "name": "lovewater-sito",
+  "private": true,
+  "description": "Sito Lovewater con pannello di gestione (Netlify Functions + Netlify Blobs)",
+  "dependencies": {
+    "@netlify/blobs": "11.1.3"
+  }
+}
